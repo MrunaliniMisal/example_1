@@ -1,0 +1,74 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+/*header*/
+.navbar-brand {
+    padding-right: 30px;
+    padding-top: 100px;
+}
+
+.nav-item{
+    padding: 10px 10px 10px 10px;
+}
+
+/*header*/
+
+/*section1*/
+.section1{
+    font-size: 20px;
+    color: white;
+}
+.stylecards{
+    box-shadow: 2px 2px 8px grey;
+}
+/*section1*/
+
+/*section3*/
+#section3{
+    width: 100%;
+    height: 650px;
+    background-image: url("https://lh3.googleusercontent.com/uSwq7phf-Nd94UpHNdlL1L9hD_egfvRgjMY6KQFYNnVOpAO8DfZcQIMJhAgV0ACBwaKel0MnGCkD0qULH98VDMVvnuLa4-0PkuZ26kfUTRYVRX3VC2sPKART8CMRMz6j5VpsiIVV-A=w2400");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#h1{
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 30px;
+    color: black;
+}
+#h3{
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+}
+/*section3*/
+
+/*section5*/
+#section5{
+    width: 100%;
+    height: 650px;
+    background-image: url("https://lh3.googleusercontent.com/BlWZd8s2SA7V5s4F9ehZj5ZLn1wv53iLMeK3CzQMdnEKI1hqBhcUj5mq4GyfDJUSo8YQt4PRHJD4R202JTJ8gt5tqczYPl9kVNyYoKgjtRk56mdvVmzMMrUCN-lBOHP_i91YB8KHzg=w2400");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#h2{
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 30px;
+    color:  white;
+    
+}
+/*section5*/
+
+/*footer*/
+.footer{
+  color: black; 
+  display: inline-block;
+  font-size: 15px;
+}
+/*footer*/
